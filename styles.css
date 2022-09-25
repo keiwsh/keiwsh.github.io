@@ -1,5 +1,14 @@
-body {
-    margin: 0;
-    background: green;
-    text-align: center;
+*{
+    padding: 0;
+    margin; 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: lightgreen;
+    color: white;
+    border-bottom: 0.5px solid gray;
+    width: 100%;
+    line-height: 80px;
+    height: 80px;
+    font-size: 18px;
 }
